@@ -6,9 +6,11 @@ La base de données est accessible à travers mySQL. Les informations d’accès
 
 Notés que, depuis phpmyadmin, vous pouvez exporter les tables en fichiers CSV
 
+
 # Structure de la base de données
 
 La base de données est structurées en plusieurs tables décrites ici
+
 
 # games_atp
 
@@ -21,8 +23,10 @@ ID_R_G : L’identfiant du round dans le tournoi (voir rounds)
 RESULT_G ; Le résultat du match
 DATE_G:  La date du match
 
+
 # games_atp_public
 C’est la table des matches pour lesquels vous devez prédire le résultat. Les résultats du leaderboard seront calculés sur une partie de ces matches. A la fin du challenge, les résultats sur l’ensemble des matches seront publiés.
+
 
 # facts_atp
 ID1 : L’identifiant du joueur qui a gagné le match
@@ -45,20 +49,26 @@ RPW_1 : Nombre de points gagnés
 RPW_OF1 : Nombre de points jouées
 .._2 : Les mêmes pour le joueur 2
 
+
 # players_atp
 La mapping entre les identifiants et les noms des joueurs. Contient aussi quelques informations additionnelles.
+
 
 # ratings_atp
 Contient le classement et le nombre de points ATP des jours à différentes dates
 
+
 # rounds
 Permet de matcher un identifiant de round à un type de round
+
 
 # courts
 Permet d’associer une type court à sa surface réelle
 
+
 # tours_atp
 Description des différents tournois. NB: la date du tournoi peut être utilisée comme date de match si un matche n’est pas associè à une date
+
 
 # Soumission sur le leaderboard
 Le site du leaderboard se trouve à l’adresse suivante: (voir PIAZZA)
