@@ -75,8 +75,8 @@ Le site du leaderboard se trouve à l’adresse suivante: (voir PIAZZA)
 
 Le fichier de soumission est CSV (valeurs séparées par des ‘,’) de 5 colonnes:
 
-ID Joueur 1
-ID Joueur 2
-ID Tournoi
-ID Round
+ID Joueur 1 <br />
+ID Joueur 2 <br />
+ID Tournoi <br />
+ID Round <br />
 Résultat prédit (1 si joueur gagne, 2 si joueur 2)
