@@ -1,0 +1,18 @@
+Facts_atp:
+TMW_F : Total Match Won
+TML_F : Total Match Lost
+TBW_F : 
+TBL_F :
+MF_F :
+ACES_F : ACES
+DF_F : Double Faults 
+SRV1_F : 1st Serve 
+WON1_F : 1st Serve Points Won 
+WON2_F : 2nd Serve Points Won 
+SGW_F : Service Games Won 
+BPS_F : Break Points Saved 
+PWR1S_F : 1st Serve Return Points Won
+PWR2S_F : 2nd Serve Return Points Won 
+BPW_F : Break Points Converted 
+RGW_F : Return Games Won 
+
